@@ -1,2 +1,2 @@
 # github-actions-ci-cd
-Praticando CI/CD
+Praticando CI/CD Udemy
